@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+
+# Build artifacts
+*.o
+*.dSYM/
+
+# Binaries
+server
+client
